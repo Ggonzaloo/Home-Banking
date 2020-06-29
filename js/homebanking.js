@@ -11,6 +11,7 @@ window.onload = function() {
   cargarNombreEnPantalla();
   actualizarSaldoEnPantalla();
   actualizarLimiteEnPantalla();
+  iniciarSesion();
 }
 
 
